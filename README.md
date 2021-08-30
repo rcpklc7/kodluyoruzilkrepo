@@ -9,15 +9,17 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitimi kapsamında
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
 Linux için:
-`cd kodluyoruzilkrepo`
-`code .`
+`cd kodluyoruzilkrepo
+code .`
+
 
 ## Constributing 
 Pull requestler kabul edilir.  Büyük değişikler için, lütfen önce değiştirmek
 istediğinizi tartışmak iiçin bir konu açınız.
 
 ## License
-[MIT](https://opensource.org/licenses/MIT);
+[MIT](https://opensource.org/licenses/MIT)
 
-![Örnek resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png);
+![Örnek resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
